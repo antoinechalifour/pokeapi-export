@@ -1,0 +1,110 @@
+{
+  "descriptions": [
+    {
+      "description": "Every other Pokémon on the field.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    },
+    {
+      "description": "Jedes andere Pokémon auf dem Feld.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      }
+    }
+  ],
+  "id": 9,
+  "moves": [
+    {
+      "name": "surf",
+      "url": "https://pokeapi.co/api/v2/move/57/"
+    },
+    {
+      "name": "earthquake",
+      "url": "https://pokeapi.co/api/v2/move/89/"
+    },
+    {
+      "name": "self-destruct",
+      "url": "https://pokeapi.co/api/v2/move/120/"
+    },
+    {
+      "name": "explosion",
+      "url": "https://pokeapi.co/api/v2/move/153/"
+    },
+    {
+      "name": "magnitude",
+      "url": "https://pokeapi.co/api/v2/move/222/"
+    },
+    {
+      "name": "teeter-dance",
+      "url": "https://pokeapi.co/api/v2/move/298/"
+    },
+    {
+      "name": "discharge",
+      "url": "https://pokeapi.co/api/v2/move/435/"
+    },
+    {
+      "name": "lava-plume",
+      "url": "https://pokeapi.co/api/v2/move/436/"
+    },
+    {
+      "name": "sludge-wave",
+      "url": "https://pokeapi.co/api/v2/move/482/"
+    },
+    {
+      "name": "synchronoise",
+      "url": "https://pokeapi.co/api/v2/move/485/"
+    },
+    {
+      "name": "bulldoze",
+      "url": "https://pokeapi.co/api/v2/move/523/"
+    },
+    {
+      "name": "searing-shot",
+      "url": "https://pokeapi.co/api/v2/move/545/"
+    },
+    {
+      "name": "parabolic-charge",
+      "url": "https://pokeapi.co/api/v2/move/570/"
+    },
+    {
+      "name": "petal-blizzard",
+      "url": "https://pokeapi.co/api/v2/move/572/"
+    },
+    {
+      "name": "boomburst",
+      "url": "https://pokeapi.co/api/v2/move/586/"
+    },
+    {
+      "name": "sparkling-aria",
+      "url": "https://pokeapi.co/api/v2/move/664/"
+    },
+    {
+      "name": "brutal-swing",
+      "url": "https://pokeapi.co/api/v2/move/693/"
+    },
+    {
+      "name": "mind-blown",
+      "url": "https://pokeapi.co/api/v2/move/720/"
+    }
+  ],
+  "name": "all-other-pokemon",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Alle anderen Pokémon"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "All other Pokémon"
+    }
+  ]
+}

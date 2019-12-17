@@ -1,0 +1,15 @@
+{
+  "id": 704,
+  "item": {
+    "name": "tm40",
+    "url": "https://pokeapi.co/api/v2/item/344/"
+  },
+  "move": {
+    "name": "skull-bash",
+    "url": "https://pokeapi.co/api/v2/move/130/"
+  },
+  "version_group": {
+    "name": "yellow",
+    "url": "https://pokeapi.co/api/v2/version-group/2/"
+  }
+}

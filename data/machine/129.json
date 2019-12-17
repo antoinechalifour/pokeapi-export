@@ -1,0 +1,15 @@
+{
+  "id": 129,
+  "item": {
+    "name": "tm08",
+    "url": "https://pokeapi.co/api/v2/item/312/"
+  },
+  "move": {
+    "name": "rock-smash",
+    "url": "https://pokeapi.co/api/v2/move/249/"
+  },
+  "version_group": {
+    "name": "gold-silver",
+    "url": "https://pokeapi.co/api/v2/version-group/3/"
+  }
+}

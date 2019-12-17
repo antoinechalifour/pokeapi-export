@@ -1,0 +1,94 @@
+{
+  "berries": [
+    {
+      "name": "cheri",
+      "url": "https://pokeapi.co/api/v2/berry/1/"
+    },
+    {
+      "name": "figy",
+      "url": "https://pokeapi.co/api/v2/berry/11/"
+    },
+    {
+      "name": "iapapa",
+      "url": "https://pokeapi.co/api/v2/berry/15/"
+    },
+    {
+      "name": "bluk",
+      "url": "https://pokeapi.co/api/v2/berry/17/"
+    },
+    {
+      "name": "grepa",
+      "url": "https://pokeapi.co/api/v2/berry/25/"
+    },
+    {
+      "name": "tamato",
+      "url": "https://pokeapi.co/api/v2/berry/26/"
+    },
+    {
+      "name": "rabuta",
+      "url": "https://pokeapi.co/api/v2/berry/29/"
+    },
+    {
+      "name": "spelon",
+      "url": "https://pokeapi.co/api/v2/berry/31/"
+    },
+    {
+      "name": "watmel",
+      "url": "https://pokeapi.co/api/v2/berry/33/"
+    },
+    {
+      "name": "passho",
+      "url": "https://pokeapi.co/api/v2/berry/37/"
+    },
+    {
+      "name": "rindo",
+      "url": "https://pokeapi.co/api/v2/berry/39/"
+    },
+    {
+      "name": "chople",
+      "url": "https://pokeapi.co/api/v2/berry/41/"
+    },
+    {
+      "name": "shuca",
+      "url": "https://pokeapi.co/api/v2/berry/43/"
+    },
+    {
+      "name": "payapa",
+      "url": "https://pokeapi.co/api/v2/berry/45/"
+    },
+    {
+      "name": "haban",
+      "url": "https://pokeapi.co/api/v2/berry/49/"
+    },
+    {
+      "name": "lansat",
+      "url": "https://pokeapi.co/api/v2/berry/58/"
+    },
+    {
+      "name": "micle",
+      "url": "https://pokeapi.co/api/v2/berry/61/"
+    },
+    {
+      "name": "jaboca",
+      "url": "https://pokeapi.co/api/v2/berry/63/"
+    }
+  ],
+  "id": 2,
+  "name": "soft",
+  "names": [
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Tendre"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Soft"
+    }
+  ]
+}

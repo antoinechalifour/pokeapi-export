@@ -1,0 +1,71 @@
+{
+  "id": 20,
+  "items": [
+    {
+      "name": "suite-key",
+      "url": "https://pokeapi.co/api/v2/item/428/"
+    },
+    {
+      "name": "oaks-letter",
+      "url": "https://pokeapi.co/api/v2/item/429/"
+    },
+    {
+      "name": "lunar-wing",
+      "url": "https://pokeapi.co/api/v2/item/430/"
+    },
+    {
+      "name": "member-card",
+      "url": "https://pokeapi.co/api/v2/item/431/"
+    },
+    {
+      "name": "azure-flute",
+      "url": "https://pokeapi.co/api/v2/item/432/"
+    },
+    {
+      "name": "gracidea",
+      "url": "https://pokeapi.co/api/v2/item/444/"
+    },
+    {
+      "name": "secret-key",
+      "url": "https://pokeapi.co/api/v2/item/445/"
+    },
+    {
+      "name": "enigma-stone",
+      "url": "https://pokeapi.co/api/v2/item/470/"
+    },
+    {
+      "name": "eon-ticket",
+      "url": "https://pokeapi.co/api/v2/item/534/"
+    },
+    {
+      "name": "mysticticket",
+      "url": "https://pokeapi.co/api/v2/item/556/"
+    },
+    {
+      "name": "auroraticket",
+      "url": "https://pokeapi.co/api/v2/item/557/"
+    },
+    {
+      "name": "old-sea-map",
+      "url": "https://pokeapi.co/api/v2/item/562/"
+    },
+    {
+      "name": "liberty-pass",
+      "url": "https://pokeapi.co/api/v2/item/615/"
+    }
+  ],
+  "name": "event-items",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Event items"
+    }
+  ],
+  "pocket": {
+    "name": "key",
+    "url": "https://pokeapi.co/api/v2/item-pocket/8/"
+  }
+}

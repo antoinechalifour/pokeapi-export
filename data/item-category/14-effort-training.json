@@ -1,0 +1,47 @@
+{
+  "id": 14,
+  "items": [
+    {
+      "name": "macho-brace",
+      "url": "https://pokeapi.co/api/v2/item/192/"
+    },
+    {
+      "name": "power-bracer",
+      "url": "https://pokeapi.co/api/v2/item/266/"
+    },
+    {
+      "name": "power-belt",
+      "url": "https://pokeapi.co/api/v2/item/267/"
+    },
+    {
+      "name": "power-lens",
+      "url": "https://pokeapi.co/api/v2/item/268/"
+    },
+    {
+      "name": "power-band",
+      "url": "https://pokeapi.co/api/v2/item/269/"
+    },
+    {
+      "name": "power-anklet",
+      "url": "https://pokeapi.co/api/v2/item/270/"
+    },
+    {
+      "name": "power-weight",
+      "url": "https://pokeapi.co/api/v2/item/271/"
+    }
+  ],
+  "name": "effort-training",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Effort training"
+    }
+  ],
+  "pocket": {
+    "name": "misc",
+    "url": "https://pokeapi.co/api/v2/item-pocket/1/"
+  }
+}

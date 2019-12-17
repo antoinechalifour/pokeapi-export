@@ -1,0 +1,15 @@
+{
+  "id": 732,
+  "item": {
+    "name": "tm41",
+    "url": "https://pokeapi.co/api/v2/item/345/"
+  },
+  "move": {
+    "name": "torment",
+    "url": "https://pokeapi.co/api/v2/move/259/"
+  },
+  "version_group": {
+    "name": "colosseum",
+    "url": "https://pokeapi.co/api/v2/version-group/12/"
+  }
+}

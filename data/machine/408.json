@@ -1,0 +1,15 @@
+{
+  "id": 408,
+  "item": {
+    "name": "tm23",
+    "url": "https://pokeapi.co/api/v2/item/327/"
+  },
+  "move": {
+    "name": "iron-tail",
+    "url": "https://pokeapi.co/api/v2/move/231/"
+  },
+  "version_group": {
+    "name": "colosseum",
+    "url": "https://pokeapi.co/api/v2/version-group/12/"
+  }
+}

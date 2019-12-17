@@ -1,0 +1,327 @@
+{
+  "id": 22,
+  "items": [
+    {
+      "name": "works-key",
+      "url": "https://pokeapi.co/api/v2/item/415/"
+    },
+    {
+      "name": "old-charm",
+      "url": "https://pokeapi.co/api/v2/item/416/"
+    },
+    {
+      "name": "galactic-key",
+      "url": "https://pokeapi.co/api/v2/item/417/"
+    },
+    {
+      "name": "ss-ticket",
+      "url": "https://pokeapi.co/api/v2/item/433/"
+    },
+    {
+      "name": "magma-stone",
+      "url": "https://pokeapi.co/api/v2/item/435/"
+    },
+    {
+      "name": "parcel",
+      "url": "https://pokeapi.co/api/v2/item/436/"
+    },
+    {
+      "name": "coupon-1",
+      "url": "https://pokeapi.co/api/v2/item/437/"
+    },
+    {
+      "name": "coupon-2",
+      "url": "https://pokeapi.co/api/v2/item/438/"
+    },
+    {
+      "name": "coupon-3",
+      "url": "https://pokeapi.co/api/v2/item/439/"
+    },
+    {
+      "name": "storage-key",
+      "url": "https://pokeapi.co/api/v2/item/440/"
+    },
+    {
+      "name": "secret-potion",
+      "url": "https://pokeapi.co/api/v2/item/441/"
+    },
+    {
+      "name": "squirt-bottle",
+      "url": "https://pokeapi.co/api/v2/item/448/"
+    },
+    {
+      "name": "red-orb",
+      "url": "https://pokeapi.co/api/v2/item/467/"
+    },
+    {
+      "name": "blue-orb",
+      "url": "https://pokeapi.co/api/v2/item/468/"
+    },
+    {
+      "name": "jade-orb",
+      "url": "https://pokeapi.co/api/v2/item/469/"
+    },
+    {
+      "name": "clear-bell",
+      "url": "https://pokeapi.co/api/v2/item/474/"
+    },
+    {
+      "name": "card-key",
+      "url": "https://pokeapi.co/api/v2/item/475/"
+    },
+    {
+      "name": "basement-key",
+      "url": "https://pokeapi.co/api/v2/item/476/"
+    },
+    {
+      "name": "red-scale",
+      "url": "https://pokeapi.co/api/v2/item/477/"
+    },
+    {
+      "name": "lost-item",
+      "url": "https://pokeapi.co/api/v2/item/478/"
+    },
+    {
+      "name": "pass",
+      "url": "https://pokeapi.co/api/v2/item/479/"
+    },
+    {
+      "name": "machine-part",
+      "url": "https://pokeapi.co/api/v2/item/480/"
+    },
+    {
+      "name": "silver-wing",
+      "url": "https://pokeapi.co/api/v2/item/481/"
+    },
+    {
+      "name": "rainbow-wing",
+      "url": "https://pokeapi.co/api/v2/item/482/"
+    },
+    {
+      "name": "mystery-egg",
+      "url": "https://pokeapi.co/api/v2/item/483/"
+    },
+    {
+      "name": "tidal-bell",
+      "url": "https://pokeapi.co/api/v2/item/485/"
+    },
+    {
+      "name": "devon-goods",
+      "url": "https://pokeapi.co/api/v2/item/530/"
+    },
+    {
+      "name": "letter",
+      "url": "https://pokeapi.co/api/v2/item/533/"
+    },
+    {
+      "name": "scanner",
+      "url": "https://pokeapi.co/api/v2/item/535/"
+    },
+    {
+      "name": "meteorite",
+      "url": "https://pokeapi.co/api/v2/item/537/"
+    },
+    {
+      "name": "rm-1-key",
+      "url": "https://pokeapi.co/api/v2/item/538/"
+    },
+    {
+      "name": "rm-2-key",
+      "url": "https://pokeapi.co/api/v2/item/539/"
+    },
+    {
+      "name": "rm-4-key",
+      "url": "https://pokeapi.co/api/v2/item/540/"
+    },
+    {
+      "name": "rm-6-key",
+      "url": "https://pokeapi.co/api/v2/item/541/"
+    },
+    {
+      "name": "oaks-parcel",
+      "url": "https://pokeapi.co/api/v2/item/543/"
+    },
+    {
+      "name": "poke-flute",
+      "url": "https://pokeapi.co/api/v2/item/544/"
+    },
+    {
+      "name": "bike-voucher",
+      "url": "https://pokeapi.co/api/v2/item/545/"
+    },
+    {
+      "name": "gold-teeth",
+      "url": "https://pokeapi.co/api/v2/item/546/"
+    },
+    {
+      "name": "lift-key",
+      "url": "https://pokeapi.co/api/v2/item/547/"
+    },
+    {
+      "name": "silph-scope",
+      "url": "https://pokeapi.co/api/v2/item/548/"
+    },
+    {
+      "name": "tri-pass",
+      "url": "https://pokeapi.co/api/v2/item/553/"
+    },
+    {
+      "name": "rainbow-pass",
+      "url": "https://pokeapi.co/api/v2/item/554/"
+    },
+    {
+      "name": "tea",
+      "url": "https://pokeapi.co/api/v2/item/555/"
+    },
+    {
+      "name": "ruby",
+      "url": "https://pokeapi.co/api/v2/item/559/"
+    },
+    {
+      "name": "sapphire",
+      "url": "https://pokeapi.co/api/v2/item/560/"
+    },
+    {
+      "name": "magma-emblem",
+      "url": "https://pokeapi.co/api/v2/item/561/"
+    },
+    {
+      "name": "dragon-skull",
+      "url": "https://pokeapi.co/api/v2/item/620/"
+    },
+    {
+      "name": "light-stone",
+      "url": "https://pokeapi.co/api/v2/item/657/"
+    },
+    {
+      "name": "dark-stone",
+      "url": "https://pokeapi.co/api/v2/item/658/"
+    },
+    {
+      "name": "gram-1",
+      "url": "https://pokeapi.co/api/v2/item/664/"
+    },
+    {
+      "name": "gram-2",
+      "url": "https://pokeapi.co/api/v2/item/665/"
+    },
+    {
+      "name": "gram-3",
+      "url": "https://pokeapi.co/api/v2/item/666/"
+    },
+    {
+      "name": "plasma-card",
+      "url": "https://pokeapi.co/api/v2/item/676/"
+    },
+    {
+      "name": "grubby-hanky",
+      "url": "https://pokeapi.co/api/v2/item/677/"
+    },
+    {
+      "name": "colress-machine",
+      "url": "https://pokeapi.co/api/v2/item/678/"
+    },
+    {
+      "name": "dropped-item",
+      "url": "https://pokeapi.co/api/v2/item/679/"
+    },
+    {
+      "name": "elevator-key",
+      "url": "https://pokeapi.co/api/v2/item/733/"
+    },
+    {
+      "name": "honor-of-kalos",
+      "url": "https://pokeapi.co/api/v2/item/735/"
+    },
+    {
+      "name": "intriguing-stone",
+      "url": "https://pokeapi.co/api/v2/item/736/"
+    },
+    {
+      "name": "looker-ticket",
+      "url": "https://pokeapi.co/api/v2/item/738/"
+    },
+    {
+      "name": "power-plant-pass",
+      "url": "https://pokeapi.co/api/v2/item/740/"
+    },
+    {
+      "name": "profs-letter",
+      "url": "https://pokeapi.co/api/v2/item/741/"
+    },
+    {
+      "name": "devon-parts",
+      "url": "https://pokeapi.co/api/v2/item/770/"
+    },
+    {
+      "name": "key-to-room-1",
+      "url": "https://pokeapi.co/api/v2/item/773/"
+    },
+    {
+      "name": "key-to-room-2",
+      "url": "https://pokeapi.co/api/v2/item/774/"
+    },
+    {
+      "name": "key-to-room-4",
+      "url": "https://pokeapi.co/api/v2/item/775/"
+    },
+    {
+      "name": "key-to-room-6",
+      "url": "https://pokeapi.co/api/v2/item/776/"
+    },
+    {
+      "name": "devon-scuba-gear",
+      "url": "https://pokeapi.co/api/v2/item/779/"
+    },
+    {
+      "name": "magma-suit",
+      "url": "https://pokeapi.co/api/v2/item/782/"
+    },
+    {
+      "name": "aqua-suit",
+      "url": "https://pokeapi.co/api/v2/item/783/"
+    },
+    {
+      "name": "pair-of-tickets",
+      "url": "https://pokeapi.co/api/v2/item/784/"
+    },
+    {
+      "name": "meteorite-shard",
+      "url": "https://pokeapi.co/api/v2/item/815/"
+    },
+    {
+      "name": "professors-mask",
+      "url": "https://pokeapi.co/api/v2/item/880/"
+    },
+    {
+      "name": "sparkling-stone",
+      "url": "https://pokeapi.co/api/v2/item/882/"
+    },
+    {
+      "name": "sun-flute",
+      "url": "https://pokeapi.co/api/v2/item/893/"
+    },
+    {
+      "name": "moon-flute",
+      "url": "https://pokeapi.co/api/v2/item/894/"
+    },
+    {
+      "name": "enigmatic-card",
+      "url": "https://pokeapi.co/api/v2/item/895/"
+    }
+  ],
+  "name": "plot-advancement",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Plot advancement"
+    }
+  ],
+  "pocket": {
+    "name": "key",
+    "url": "https://pokeapi.co/api/v2/item-pocket/8/"
+  }
+}

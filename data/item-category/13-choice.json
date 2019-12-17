@@ -1,0 +1,31 @@
+{
+  "id": 13,
+  "items": [
+    {
+      "name": "choice-band",
+      "url": "https://pokeapi.co/api/v2/item/197/"
+    },
+    {
+      "name": "choice-scarf",
+      "url": "https://pokeapi.co/api/v2/item/264/"
+    },
+    {
+      "name": "choice-specs",
+      "url": "https://pokeapi.co/api/v2/item/274/"
+    }
+  ],
+  "name": "choice",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Choice"
+    }
+  ],
+  "pocket": {
+    "name": "misc",
+    "url": "https://pokeapi.co/api/v2/item-pocket/1/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "descriptions": [
+    {
+      "description": "Every Pokémon on the field.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    },
+    {
+      "description": "Jedes Pokémon auf dem Feld.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      }
+    }
+  ],
+  "id": 14,
+  "moves": [
+    {
+      "name": "perish-song",
+      "url": "https://pokeapi.co/api/v2/move/195/"
+    },
+    {
+      "name": "rototiller",
+      "url": "https://pokeapi.co/api/v2/move/563/"
+    },
+    {
+      "name": "flower-shield",
+      "url": "https://pokeapi.co/api/v2/move/579/"
+    }
+  ],
+  "name": "all-pokemon",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Jedes Pokémon"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "All Pokémon"
+    }
+  ]
+}

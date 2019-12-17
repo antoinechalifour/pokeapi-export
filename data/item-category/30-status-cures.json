@@ -1,0 +1,71 @@
+{
+  "id": 30,
+  "items": [
+    {
+      "name": "antidote",
+      "url": "https://pokeapi.co/api/v2/item/18/"
+    },
+    {
+      "name": "burn-heal",
+      "url": "https://pokeapi.co/api/v2/item/19/"
+    },
+    {
+      "name": "ice-heal",
+      "url": "https://pokeapi.co/api/v2/item/20/"
+    },
+    {
+      "name": "awakening",
+      "url": "https://pokeapi.co/api/v2/item/21/"
+    },
+    {
+      "name": "paralyze-heal",
+      "url": "https://pokeapi.co/api/v2/item/22/"
+    },
+    {
+      "name": "full-heal",
+      "url": "https://pokeapi.co/api/v2/item/27/"
+    },
+    {
+      "name": "heal-powder",
+      "url": "https://pokeapi.co/api/v2/item/36/"
+    },
+    {
+      "name": "lava-cookie",
+      "url": "https://pokeapi.co/api/v2/item/42/"
+    },
+    {
+      "name": "old-gateau",
+      "url": "https://pokeapi.co/api/v2/item/54/"
+    },
+    {
+      "name": "casteliacone",
+      "url": "https://pokeapi.co/api/v2/item/632/"
+    },
+    {
+      "name": "lumiose-galette",
+      "url": "https://pokeapi.co/api/v2/item/728/"
+    },
+    {
+      "name": "shalour-sable",
+      "url": "https://pokeapi.co/api/v2/item/765/"
+    },
+    {
+      "name": "big-malasada",
+      "url": "https://pokeapi.co/api/v2/item/888/"
+    }
+  ],
+  "name": "status-cures",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Status cures"
+    }
+  ],
+  "pocket": {
+    "name": "medicine",
+    "url": "https://pokeapi.co/api/v2/item-pocket/2/"
+  }
+}

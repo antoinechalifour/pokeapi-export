@@ -1,0 +1,42 @@
+{
+  "descriptions": [
+    {
+      "description": "One other Pokémon on the field, selected by the trainer.  Stolen moves reuse the same target.",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    },
+    {
+      "description": "Ein anderes vom Trainer ausgewähltes Pokémon auf dem Feld.  Gestohlene Fähigkeiten nutzen das selbe Ziel.",
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      }
+    }
+  ],
+  "id": 2,
+  "moves": [
+    {
+      "name": "me-first",
+      "url": "https://pokeapi.co/api/v2/move/382/"
+    }
+  ],
+  "name": "selected-pokemon-me-first",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Ausgewähltes Pokémon"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Selected Pokémon"
+    }
+  ]
+}

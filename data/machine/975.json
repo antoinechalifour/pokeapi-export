@@ -1,0 +1,15 @@
+{
+  "id": 975,
+  "item": {
+    "name": "tm59",
+    "url": "https://pokeapi.co/api/v2/item/363/"
+  },
+  "move": {
+    "name": "dragon-pulse",
+    "url": "https://pokeapi.co/api/v2/move/406/"
+  },
+  "version_group": {
+    "name": "heartgold-soulsilver",
+    "url": "https://pokeapi.co/api/v2/version-group/10/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 839,
+  "item": {
+    "name": "tm47",
+    "url": "https://pokeapi.co/api/v2/item/351/"
+  },
+  "move": {
+    "name": "low-sweep",
+    "url": "https://pokeapi.co/api/v2/move/490/"
+  },
+  "version_group": {
+    "name": "black-white",
+    "url": "https://pokeapi.co/api/v2/version-group/11/"
+  }
+}

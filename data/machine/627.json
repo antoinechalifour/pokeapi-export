@@ -1,0 +1,15 @@
+{
+  "id": 627,
+  "item": {
+    "name": "tm35",
+    "url": "https://pokeapi.co/api/v2/item/339/"
+  },
+  "move": {
+    "name": "flamethrower",
+    "url": "https://pokeapi.co/api/v2/move/53/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

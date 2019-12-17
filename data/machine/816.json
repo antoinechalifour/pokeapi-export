@@ -1,0 +1,15 @@
+{
+  "id": 816,
+  "item": {
+    "name": "tm46",
+    "url": "https://pokeapi.co/api/v2/item/350/"
+  },
+  "move": {
+    "name": "thief",
+    "url": "https://pokeapi.co/api/v2/move/168/"
+  },
+  "version_group": {
+    "name": "emerald",
+    "url": "https://pokeapi.co/api/v2/version-group/6/"
+  }
+}

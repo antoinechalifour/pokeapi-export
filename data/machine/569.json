@@ -1,0 +1,15 @@
+{
+  "id": 569,
+  "item": {
+    "name": "tm32",
+    "url": "https://pokeapi.co/api/v2/item/336/"
+  },
+  "move": {
+    "name": "double-team",
+    "url": "https://pokeapi.co/api/v2/move/104/"
+  },
+  "version_group": {
+    "name": "black-white",
+    "url": "https://pokeapi.co/api/v2/version-group/11/"
+  }
+}

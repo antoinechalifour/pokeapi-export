@@ -1,0 +1,15 @@
+{
+  "id": 855,
+  "item": {
+    "name": "tm48",
+    "url": "https://pokeapi.co/api/v2/item/352/"
+  },
+  "move": {
+    "name": "skill-swap",
+    "url": "https://pokeapi.co/api/v2/move/285/"
+  },
+  "version_group": {
+    "name": "platinum",
+    "url": "https://pokeapi.co/api/v2/version-group/9/"
+  }
+}

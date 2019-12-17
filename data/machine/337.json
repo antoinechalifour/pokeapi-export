@@ -1,0 +1,15 @@
+{
+  "id": 337,
+  "item": {
+    "name": "tm19",
+    "url": "https://pokeapi.co/api/v2/item/323/"
+  },
+  "move": {
+    "name": "giga-drain",
+    "url": "https://pokeapi.co/api/v2/move/202/"
+  },
+  "version_group": {
+    "name": "xd",
+    "url": "https://pokeapi.co/api/v2/version-group/13/"
+  }
+}

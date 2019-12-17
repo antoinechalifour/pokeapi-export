@@ -1,0 +1,190 @@
+{
+  "awesome_names": [
+    {
+      "awesome_name": "Chitinous",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    },
+    {
+      "awesome_name": "Chitineux",
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      }
+    }
+  ],
+  "id": 14,
+  "name": "armor",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Armor"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Armure"
+    }
+  ],
+  "pokemon_species": [
+    {
+      "name": "caterpie",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/10/"
+    },
+    {
+      "name": "weedle",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/13/"
+    },
+    {
+      "name": "paras",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/46/"
+    },
+    {
+      "name": "parasect",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/47/"
+    },
+    {
+      "name": "krabby",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/98/"
+    },
+    {
+      "name": "kabuto",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/140/"
+    },
+    {
+      "name": "kingler",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/99/"
+    },
+    {
+      "name": "spinarak",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/167/"
+    },
+    {
+      "name": "shuckle",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/213/"
+    },
+    {
+      "name": "corsola",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/222/"
+    },
+    {
+      "name": "ariados",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/168/"
+    },
+    {
+      "name": "wurmple",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/265/"
+    },
+    {
+      "name": "lotad",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/270/"
+    },
+    {
+      "name": "surskit",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/283/"
+    },
+    {
+      "name": "nincada",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/290/"
+    },
+    {
+      "name": "trapinch",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/328/"
+    },
+    {
+      "name": "corphish",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/341/"
+    },
+    {
+      "name": "anorith",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/347/"
+    },
+    {
+      "name": "crawdaunt",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/342/"
+    },
+    {
+      "name": "skorupi",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/451/"
+    },
+    {
+      "name": "drapion",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/452/"
+    },
+    {
+      "name": "sewaddle",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/540/"
+    },
+    {
+      "name": "venipede",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/543/"
+    },
+    {
+      "name": "scolipede",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/545/"
+    },
+    {
+      "name": "dwebble",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/557/"
+    },
+    {
+      "name": "joltik",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/595/"
+    },
+    {
+      "name": "durant",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/632/"
+    },
+    {
+      "name": "larvesta",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/636/"
+    },
+    {
+      "name": "galvantula",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/596/"
+    },
+    {
+      "name": "scatterbug",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/664/"
+    },
+    {
+      "name": "clauncher",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/692/"
+    },
+    {
+      "name": "grubbin",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/736/"
+    },
+    {
+      "name": "crabrawler",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/739/"
+    },
+    {
+      "name": "cutiefly",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/742/"
+    },
+    {
+      "name": "vikavolt",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/738/"
+    },
+    {
+      "name": "crabominable",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/740/"
+    },
+    {
+      "name": "araquanid",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/752/"
+    },
+    {
+      "name": "crustle",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/558/"
+    }
+  ]
+}

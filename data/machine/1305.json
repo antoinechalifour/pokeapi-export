@@ -1,0 +1,15 @@
+{
+  "id": 1305,
+  "item": {
+    "name": "tm98",
+    "url": "https://pokeapi.co/api/v2/item/747/"
+  },
+  "move": {
+    "name": "power-up-punch",
+    "url": "https://pokeapi.co/api/v2/move/612/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

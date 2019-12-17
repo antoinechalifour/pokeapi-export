@@ -1,0 +1,15 @@
+{
+  "id": 150,
+  "item": {
+    "name": "tm09",
+    "url": "https://pokeapi.co/api/v2/item/313/"
+  },
+  "move": {
+    "name": "bullet-seed",
+    "url": "https://pokeapi.co/api/v2/move/331/"
+  },
+  "version_group": {
+    "name": "emerald",
+    "url": "https://pokeapi.co/api/v2/version-group/6/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 592,
+  "item": {
+    "name": "tm33",
+    "url": "https://pokeapi.co/api/v2/item/337/"
+  },
+  "move": {
+    "name": "reflect",
+    "url": "https://pokeapi.co/api/v2/move/115/"
+  },
+  "version_group": {
+    "name": "omega-ruby-alpha-sapphire",
+    "url": "https://pokeapi.co/api/v2/version-group/16/"
+  }
+}

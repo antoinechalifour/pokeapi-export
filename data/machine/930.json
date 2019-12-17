@@ -1,0 +1,15 @@
+{
+  "id": 930,
+  "item": {
+    "name": "tm54",
+    "url": "https://pokeapi.co/api/v2/item/358/"
+  },
+  "move": {
+    "name": "false-swipe",
+    "url": "https://pokeapi.co/api/v2/move/206/"
+  },
+  "version_group": {
+    "name": "heartgold-soulsilver",
+    "url": "https://pokeapi.co/api/v2/version-group/10/"
+  }
+}

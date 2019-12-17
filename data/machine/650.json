@@ -1,0 +1,15 @@
+{
+  "id": 650,
+  "item": {
+    "name": "tm37",
+    "url": "https://pokeapi.co/api/v2/item/341/"
+  },
+  "move": {
+    "name": "egg-bomb",
+    "url": "https://pokeapi.co/api/v2/move/121/"
+  },
+  "version_group": {
+    "name": "yellow",
+    "url": "https://pokeapi.co/api/v2/version-group/2/"
+  }
+}

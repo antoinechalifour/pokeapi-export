@@ -1,0 +1,15 @@
+{
+  "id": 112,
+  "item": {
+    "name": "tm07",
+    "url": "https://pokeapi.co/api/v2/item/311/"
+  },
+  "move": {
+    "name": "zap-cannon",
+    "url": "https://pokeapi.co/api/v2/move/192/"
+  },
+  "version_group": {
+    "name": "crystal",
+    "url": "https://pokeapi.co/api/v2/version-group/4/"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "id": 21,
+  "items": [
+    {
+      "name": "explorer-kit",
+      "url": "https://pokeapi.co/api/v2/item/405/"
+    },
+    {
+      "name": "poke-radar",
+      "url": "https://pokeapi.co/api/v2/item/408/"
+    },
+    {
+      "name": "point-card",
+      "url": "https://pokeapi.co/api/v2/item/409/"
+    },
+    {
+      "name": "journal",
+      "url": "https://pokeapi.co/api/v2/item/410/"
+    },
+    {
+      "name": "seal-case",
+      "url": "https://pokeapi.co/api/v2/item/411/"
+    },
+    {
+      "name": "fashion-case",
+      "url": "https://pokeapi.co/api/v2/item/412/"
+    },
+    {
+      "name": "pal-pad",
+      "url": "https://pokeapi.co/api/v2/item/414/"
+    },
+    {
+      "name": "town-map",
+      "url": "https://pokeapi.co/api/v2/item/419/"
+    },
+    {
+      "name": "vs-seeker",
+      "url": "https://pokeapi.co/api/v2/item/420/"
+    },
+    {
+      "name": "coin-case",
+      "url": "https://pokeapi.co/api/v2/item/421/"
+    },
+    {
+      "name": "old-rod",
+      "url": "https://pokeapi.co/api/v2/item/422/"
+    },
+    {
+      "name": "good-rod",
+      "url": "https://pokeapi.co/api/v2/item/423/"
+    },
+    {
+      "name": "super-rod",
+      "url": "https://pokeapi.co/api/v2/item/424/"
+    },
+    {
+      "name": "sprayduck",
+      "url": "https://pokeapi.co/api/v2/item/425/"
+    },
+    {
+      "name": "poffin-case",
+      "url": "https://pokeapi.co/api/v2/item/426/"
+    },
+    {
+      "name": "bicycle",
+      "url": "https://pokeapi.co/api/v2/item/427/"
+    },
+    {
+      "name": "contest-pass",
+      "url": "https://pokeapi.co/api/v2/item/434/"
+    },
+    {
+      "name": "vs-recorder",
+      "url": "https://pokeapi.co/api/v2/item/443/"
+    },
+    {
+      "name": "apricorn-box",
+      "url": "https://pokeapi.co/api/v2/item/446/"
+    },
+    {
+      "name": "berry-pots",
+      "url": "https://pokeapi.co/api/v2/item/447/"
+    },
+    {
+      "name": "dowsing-machine",
+      "url": "https://pokeapi.co/api/v2/item/465/"
+    },
+    {
+      "name": "rage-candy-bar",
+      "url": "https://pokeapi.co/api/v2/item/466/"
+    },
+    {
+      "name": "unown-report",
+      "url": "https://pokeapi.co/api/v2/item/471/"
+    },
+    {
+      "name": "blue-card",
+      "url": "https://pokeapi.co/api/v2/item/472/"
+    },
+    {
+      "name": "gb-sounds",
+      "url": "https://pokeapi.co/api/v2/item/484/"
+    },
+    {
+      "name": "mach-bike",
+      "url": "https://pokeapi.co/api/v2/item/527/"
+    },
+    {
+      "name": "acro-bike",
+      "url": "https://pokeapi.co/api/v2/item/528/"
+    },
+    {
+      "name": "wailmer-pail",
+      "url": "https://pokeapi.co/api/v2/item/529/"
+    },
+    {
+      "name": "soot-sack",
+      "url": "https://pokeapi.co/api/v2/item/531/"
+    },
+    {
+      "name": "pokeblock-case",
+      "url": "https://pokeapi.co/api/v2/item/532/"
+    },
+    {
+      "name": "go-goggles",
+      "url": "https://pokeapi.co/api/v2/item/536/"
+    },
+    {
+      "name": "devon-scope",
+      "url": "https://pokeapi.co/api/v2/item/542/"
+    },
+    {
+      "name": "fame-checker",
+      "url": "https://pokeapi.co/api/v2/item/549/"
+    },
+    {
+      "name": "tm-case",
+      "url": "https://pokeapi.co/api/v2/item/550/"
+    },
+    {
+      "name": "berry-pouch",
+      "url": "https://pokeapi.co/api/v2/item/551/"
+    },
+    {
+      "name": "teachy-tv",
+      "url": "https://pokeapi.co/api/v2/item/552/"
+    },
+    {
+      "name": "powder-jar",
+      "url": "https://pokeapi.co/api/v2/item/558/"
+    },
+    {
+      "name": "prop-case",
+      "url": "https://pokeapi.co/api/v2/item/619/"
+    },
+    {
+      "name": "xtransceiver",
+      "url": "https://pokeapi.co/api/v2/item/662/"
+    },
+    {
+      "name": "medal-box",
+      "url": "https://pokeapi.co/api/v2/item/670/"
+    },
+    {
+      "name": "dna-splicers",
+      "url": "https://pokeapi.co/api/v2/item/671/"
+    },
+    {
+      "name": "permit",
+      "url": "https://pokeapi.co/api/v2/item/673/"
+    },
+    {
+      "name": "oval-charm",
+      "url": "https://pokeapi.co/api/v2/item/674/"
+    },
+    {
+      "name": "shiny-charm",
+      "url": "https://pokeapi.co/api/v2/item/675/"
+    },
+    {
+      "name": "reveal-glass",
+      "url": "https://pokeapi.co/api/v2/item/681/"
+    },
+    {
+      "name": "adventure-rules",
+      "url": "https://pokeapi.co/api/v2/item/732/"
+    },
+    {
+      "name": "holo-caster",
+      "url": "https://pokeapi.co/api/v2/item/734/"
+    },
+    {
+      "name": "lens-case",
+      "url": "https://pokeapi.co/api/v2/item/737/"
+    },
+    {
+      "name": "mega-ring",
+      "url": "https://pokeapi.co/api/v2/item/739/"
+    },
+    {
+      "name": "roller-skates",
+      "url": "https://pokeapi.co/api/v2/item/742/"
+    },
+    {
+      "name": "sprinklotad",
+      "url": "https://pokeapi.co/api/v2/item/743/"
+    },
+    {
+      "name": "tmv-pass",
+      "url": "https://pokeapi.co/api/v2/item/744/"
+    },
+    {
+      "name": "makeup-bag",
+      "url": "https://pokeapi.co/api/v2/item/763/"
+    },
+    {
+      "name": "pokeblock-kit",
+      "url": "https://pokeapi.co/api/v2/item/772/"
+    },
+    {
+      "name": "contest-costume--jacket",
+      "url": "https://pokeapi.co/api/v2/item/780/"
+    },
+    {
+      "name": "mega-bracelet",
+      "url": "https://pokeapi.co/api/v2/item/785/"
+    },
+    {
+      "name": "prison-bottle",
+      "url": "https://pokeapi.co/api/v2/item/806/"
+    },
+    {
+      "name": "key-stone",
+      "url": "https://pokeapi.co/api/v2/item/814/"
+    },
+    {
+      "name": "eon-flute",
+      "url": "https://pokeapi.co/api/v2/item/816/"
+    },
+    {
+      "name": "z-ring",
+      "url": "https://pokeapi.co/api/v2/item/838/"
+    },
+    {
+      "name": "forage-bag",
+      "url": "https://pokeapi.co/api/v2/item/878/"
+    },
+    {
+      "name": "fishing-rod",
+      "url": "https://pokeapi.co/api/v2/item/879/"
+    },
+    {
+      "name": "festival-ticket",
+      "url": "https://pokeapi.co/api/v2/item/881/"
+    },
+    {
+      "name": "zygarde-cube",
+      "url": "https://pokeapi.co/api/v2/item/884/"
+    }
+  ],
+  "name": "gameplay",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Gameplay"
+    }
+  ],
+  "pocket": {
+    "name": "key",
+    "url": "https://pokeapi.co/api/v2/item-pocket/8/"
+  }
+}

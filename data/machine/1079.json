@@ -1,0 +1,15 @@
+{
+  "id": 1079,
+  "item": {
+    "name": "tm70",
+    "url": "https://pokeapi.co/api/v2/item/374/"
+  },
+  "move": {
+    "name": "aurora-veil",
+    "url": "https://pokeapi.co/api/v2/move/694/"
+  },
+  "version_group": {
+    "name": "sun-moon",
+    "url": "https://pokeapi.co/api/v2/version-group/17/"
+  }
+}

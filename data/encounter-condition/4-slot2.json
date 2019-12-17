@@ -1,0 +1,53 @@
+{
+  "id": 4,
+  "name": "slot2",
+  "names": [
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Jeu GBA dans le Slot 2"
+    },
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Spiel der 3. Generation in Slot 2"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Gen 3 game in slot 2"
+    }
+  ],
+  "values": [
+    {
+      "name": "slot2-none",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/8/"
+    },
+    {
+      "name": "slot2-ruby",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/9/"
+    },
+    {
+      "name": "slot2-sapphire",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/10/"
+    },
+    {
+      "name": "slot2-emerald",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/11/"
+    },
+    {
+      "name": "slot2-firered",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/12/"
+    },
+    {
+      "name": "slot2-leafgreen",
+      "url": "https://pokeapi.co/api/v2/encounter-condition-value/13/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 679,
+  "item": {
+    "name": "tm38",
+    "url": "https://pokeapi.co/api/v2/item/342/"
+  },
+  "move": {
+    "name": "fire-blast",
+    "url": "https://pokeapi.co/api/v2/move/126/"
+  },
+  "version_group": {
+    "name": "xd",
+    "url": "https://pokeapi.co/api/v2/version-group/13/"
+  }
+}

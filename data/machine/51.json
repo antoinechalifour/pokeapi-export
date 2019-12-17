@@ -1,0 +1,15 @@
+{
+  "id": 51,
+  "item": {
+    "name": "tm03",
+    "url": "https://pokeapi.co/api/v2/item/307/"
+  },
+  "move": {
+    "name": "psyshock",
+    "url": "https://pokeapi.co/api/v2/move/473/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

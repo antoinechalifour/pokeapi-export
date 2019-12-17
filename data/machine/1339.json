@@ -1,0 +1,15 @@
+{
+  "id": 1339,
+  "item": {
+    "name": "hm02",
+    "url": "https://pokeapi.co/api/v2/item/398/"
+  },
+  "move": {
+    "name": "fly",
+    "url": "https://pokeapi.co/api/v2/move/19/"
+  },
+  "version_group": {
+    "name": "ruby-sapphire",
+    "url": "https://pokeapi.co/api/v2/version-group/5/"
+  }
+}

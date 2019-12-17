@@ -1,0 +1,15 @@
+{
+  "id": 774,
+  "item": {
+    "name": "tm43",
+    "url": "https://pokeapi.co/api/v2/item/347/"
+  },
+  "move": {
+    "name": "flame-charge",
+    "url": "https://pokeapi.co/api/v2/move/488/"
+  },
+  "version_group": {
+    "name": "ultra-sun-ultra-moon",
+    "url": "https://pokeapi.co/api/v2/version-group/18/"
+  }
+}

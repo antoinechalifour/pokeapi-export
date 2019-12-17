@@ -1,0 +1,15 @@
+{
+  "id": 724,
+  "item": {
+    "name": "tm41",
+    "url": "https://pokeapi.co/api/v2/item/345/"
+  },
+  "move": {
+    "name": "thunder-punch",
+    "url": "https://pokeapi.co/api/v2/move/9/"
+  },
+  "version_group": {
+    "name": "crystal",
+    "url": "https://pokeapi.co/api/v2/version-group/4/"
+  }
+}

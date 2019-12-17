@@ -1,0 +1,15 @@
+{
+  "id": 503,
+  "item": {
+    "name": "tm28",
+    "url": "https://pokeapi.co/api/v2/item/332/"
+  },
+  "move": {
+    "name": "leech-life",
+    "url": "https://pokeapi.co/api/v2/move/141/"
+  },
+  "version_group": {
+    "name": "sun-moon",
+    "url": "https://pokeapi.co/api/v2/version-group/17/"
+  }
+}

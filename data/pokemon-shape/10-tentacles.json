@@ -1,0 +1,110 @@
+{
+  "awesome_names": [
+    {
+      "awesome_name": "Cilial",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    },
+    {
+      "awesome_name": "Ciliaire",
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      }
+    }
+  ],
+  "id": 10,
+  "name": "tentacles",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Tentacles"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Tentacules"
+    }
+  ],
+  "pokemon_species": [
+    {
+      "name": "tentacool",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/72/"
+    },
+    {
+      "name": "tentacruel",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/73/"
+    },
+    {
+      "name": "omanyte",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/138/"
+    },
+    {
+      "name": "omastar",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/139/"
+    },
+    {
+      "name": "octillery",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/224/"
+    },
+    {
+      "name": "carnivine",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/455/"
+    },
+    {
+      "name": "giratina",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/487/"
+    },
+    {
+      "name": "boldore",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/525/"
+    },
+    {
+      "name": "gigalith",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/526/"
+    },
+    {
+      "name": "frillish",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/592/"
+    },
+    {
+      "name": "ferrothorn",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/598/"
+    },
+    {
+      "name": "inkay",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/686/"
+    },
+    {
+      "name": "trevenant",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/709/"
+    },
+    {
+      "name": "wimpod",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/767/"
+    },
+    {
+      "name": "nihilego",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/793/"
+    },
+    {
+      "name": "buzzwole",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/794/"
+    },
+    {
+      "name": "toxapex",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/748/"
+    },
+    {
+      "name": "jellicent",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/593/"
+    }
+  ]
+}

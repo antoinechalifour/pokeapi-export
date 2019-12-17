@@ -1,0 +1,15 @@
+{
+  "id": 1310,
+  "item": {
+    "name": "tm99",
+    "url": "https://pokeapi.co/api/v2/item/748/"
+  },
+  "move": {
+    "name": "dazzling-gleam",
+    "url": "https://pokeapi.co/api/v2/move/605/"
+  },
+  "version_group": {
+    "name": "omega-ruby-alpha-sapphire",
+    "url": "https://pokeapi.co/api/v2/version-group/16/"
+  }
+}

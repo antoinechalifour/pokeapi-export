@@ -1,0 +1,15 @@
+{
+  "id": 622,
+  "item": {
+    "name": "tm35",
+    "url": "https://pokeapi.co/api/v2/item/339/"
+  },
+  "move": {
+    "name": "flamethrower",
+    "url": "https://pokeapi.co/api/v2/move/53/"
+  },
+  "version_group": {
+    "name": "heartgold-soulsilver",
+    "url": "https://pokeapi.co/api/v2/version-group/10/"
+  }
+}

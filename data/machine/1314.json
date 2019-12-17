@@ -1,0 +1,15 @@
+{
+  "id": 1314,
+  "item": {
+    "name": "tm100",
+    "url": "https://pokeapi.co/api/v2/item/749/"
+  },
+  "move": {
+    "name": "confide",
+    "url": "https://pokeapi.co/api/v2/move/590/"
+  },
+  "version_group": {
+    "name": "omega-ruby-alpha-sapphire",
+    "url": "https://pokeapi.co/api/v2/version-group/16/"
+  }
+}

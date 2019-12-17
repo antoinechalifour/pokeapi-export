@@ -1,0 +1,15 @@
+{
+  "id": 596,
+  "item": {
+    "name": "tm34",
+    "url": "https://pokeapi.co/api/v2/item/338/"
+  },
+  "move": {
+    "name": "bide",
+    "url": "https://pokeapi.co/api/v2/move/117/"
+  },
+  "version_group": {
+    "name": "yellow",
+    "url": "https://pokeapi.co/api/v2/version-group/2/"
+  }
+}

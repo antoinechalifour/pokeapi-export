@@ -1,0 +1,21 @@
+{
+  "id": 11,
+  "name": "bridge-spots",
+  "names": [
+    {
+      "language": {
+        "name": "de",
+        "url": "https://pokeapi.co/api/v2/language/6/"
+      },
+      "name": "Im Schatten einer Brücke laufen"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Walking in bridge shadows"
+    }
+  ],
+  "order": 4
+}

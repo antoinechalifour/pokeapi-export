@@ -1,0 +1,15 @@
+{
+  "id": 865,
+  "item": {
+    "name": "tm49",
+    "url": "https://pokeapi.co/api/v2/item/353/"
+  },
+  "move": {
+    "name": "tri-attack",
+    "url": "https://pokeapi.co/api/v2/move/161/"
+  },
+  "version_group": {
+    "name": "red-blue",
+    "url": "https://pokeapi.co/api/v2/version-group/1/"
+  }
+}

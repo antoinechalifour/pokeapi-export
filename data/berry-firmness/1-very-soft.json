@@ -1,0 +1,54 @@
+{
+  "berries": [
+    {
+      "name": "pecha",
+      "url": "https://pokeapi.co/api/v2/berry/3/"
+    },
+    {
+      "name": "pamtre",
+      "url": "https://pokeapi.co/api/v2/berry/32/"
+    },
+    {
+      "name": "belue",
+      "url": "https://pokeapi.co/api/v2/berry/35/"
+    },
+    {
+      "name": "wacan",
+      "url": "https://pokeapi.co/api/v2/berry/38/"
+    },
+    {
+      "name": "tanga",
+      "url": "https://pokeapi.co/api/v2/berry/46/"
+    },
+    {
+      "name": "charti",
+      "url": "https://pokeapi.co/api/v2/berry/47/"
+    },
+    {
+      "name": "chilan",
+      "url": "https://pokeapi.co/api/v2/berry/52/"
+    },
+    {
+      "name": "rowap",
+      "url": "https://pokeapi.co/api/v2/berry/64/"
+    }
+  ],
+  "id": 1,
+  "name": "very-soft",
+  "names": [
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Très tendre"
+    },
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Very Soft"
+    }
+  ]
+}

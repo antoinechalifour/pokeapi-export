@@ -1,0 +1,15 @@
+{
+  "id": 1053,
+  "item": {
+    "name": "tm67",
+    "url": "https://pokeapi.co/api/v2/item/371/"
+  },
+  "move": {
+    "name": "smart-strike",
+    "url": "https://pokeapi.co/api/v2/move/684/"
+  },
+  "version_group": {
+    "name": "ultra-sun-ultra-moon",
+    "url": "https://pokeapi.co/api/v2/version-group/18/"
+  }
+}

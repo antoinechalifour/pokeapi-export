@@ -1,0 +1,15 @@
+{
+  "id": 902,
+  "item": {
+    "name": "tm51",
+    "url": "https://pokeapi.co/api/v2/item/355/"
+  },
+  "move": {
+    "name": "roost",
+    "url": "https://pokeapi.co/api/v2/move/355/"
+  },
+  "version_group": {
+    "name": "platinum",
+    "url": "https://pokeapi.co/api/v2/version-group/9/"
+  }
+}

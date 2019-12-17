@@ -1,0 +1,15 @@
+{
+  "id": 1285,
+  "item": {
+    "name": "tm94",
+    "url": "https://pokeapi.co/api/v2/item/660/"
+  },
+  "move": {
+    "name": "rock-smash",
+    "url": "https://pokeapi.co/api/v2/move/249/"
+  },
+  "version_group": {
+    "name": "black-white",
+    "url": "https://pokeapi.co/api/v2/version-group/11/"
+  }
+}

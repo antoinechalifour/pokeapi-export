@@ -1,0 +1,15 @@
+{
+  "id": 1301,
+  "item": {
+    "name": "tm97",
+    "url": "https://pokeapi.co/api/v2/item/746/"
+  },
+  "move": {
+    "name": "dark-pulse",
+    "url": "https://pokeapi.co/api/v2/move/399/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

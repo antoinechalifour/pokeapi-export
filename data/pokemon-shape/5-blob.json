@@ -1,0 +1,170 @@
+{
+  "awesome_names": [
+    {
+      "awesome_name": "Alvine",
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      }
+    },
+    {
+      "awesome_name": "Alvin",
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      }
+    }
+  ],
+  "id": 5,
+  "name": "blob",
+  "names": [
+    {
+      "language": {
+        "name": "en",
+        "url": "https://pokeapi.co/api/v2/language/9/"
+      },
+      "name": "Blob"
+    },
+    {
+      "language": {
+        "name": "fr",
+        "url": "https://pokeapi.co/api/v2/language/5/"
+      },
+      "name": "Goutte"
+    }
+  ],
+  "pokemon_species": [
+    {
+      "name": "diglett",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/50/"
+    },
+    {
+      "name": "weepinbell",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/70/"
+    },
+    {
+      "name": "victreebel",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/71/"
+    },
+    {
+      "name": "horsea",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/116/"
+    },
+    {
+      "name": "staryu",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/120/"
+    },
+    {
+      "name": "seadra",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/117/"
+    },
+    {
+      "name": "starmie",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/121/"
+    },
+    {
+      "name": "wobbuffet",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/202/"
+    },
+    {
+      "name": "kingdra",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/230/"
+    },
+    {
+      "name": "shedinja",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/292/"
+    },
+    {
+      "name": "lileep",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/345/"
+    },
+    {
+      "name": "beldum",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/374/"
+    },
+    {
+      "name": "cradily",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/346/"
+    },
+    {
+      "name": "burmy",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/412/"
+    },
+    {
+      "name": "spiritomb",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/442/"
+    },
+    {
+      "name": "wormadam",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/413/"
+    },
+    {
+      "name": "petilil",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/548/"
+    },
+    {
+      "name": "lilligant",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/549/"
+    },
+    {
+      "name": "maractus",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/556/"
+    },
+    {
+      "name": "vanillite",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/582/"
+    },
+    {
+      "name": "litwick",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/607/"
+    },
+    {
+      "name": "cofagrigus",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/563/"
+    },
+    {
+      "name": "vanillish",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/583/"
+    },
+    {
+      "name": "honedge",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/679/"
+    },
+    {
+      "name": "skrelp",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/690/"
+    },
+    {
+      "name": "spewpa",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/665/"
+    },
+    {
+      "name": "aegislash",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/681/"
+    },
+    {
+      "name": "malamar",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/687/"
+    },
+    {
+      "name": "dragalge",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/691/"
+    },
+    {
+      "name": "mareanie",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/747/"
+    },
+    {
+      "name": "morelull",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/755/"
+    },
+    {
+      "name": "dhelmise",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/781/"
+    },
+    {
+      "name": "gourgeist",
+      "url": "https://pokeapi.co/api/v2/pokemon-species/711/"
+    }
+  ]
+}

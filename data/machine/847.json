@@ -1,0 +1,15 @@
+{
+  "id": 847,
+  "item": {
+    "name": "tm48",
+    "url": "https://pokeapi.co/api/v2/item/352/"
+  },
+  "move": {
+    "name": "rock-slide",
+    "url": "https://pokeapi.co/api/v2/move/157/"
+  },
+  "version_group": {
+    "name": "red-blue",
+    "url": "https://pokeapi.co/api/v2/version-group/1/"
+  }
+}

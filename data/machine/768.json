@@ -1,0 +1,15 @@
+{
+  "id": 768,
+  "item": {
+    "name": "tm43",
+    "url": "https://pokeapi.co/api/v2/item/347/"
+  },
+  "move": {
+    "name": "secret-power",
+    "url": "https://pokeapi.co/api/v2/move/290/"
+  },
+  "version_group": {
+    "name": "colosseum",
+    "url": "https://pokeapi.co/api/v2/version-group/12/"
+  }
+}

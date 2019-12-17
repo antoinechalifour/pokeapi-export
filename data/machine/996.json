@@ -1,0 +1,15 @@
+{
+  "id": 996,
+  "item": {
+    "name": "tm61",
+    "url": "https://pokeapi.co/api/v2/item/365/"
+  },
+  "move": {
+    "name": "will-o-wisp",
+    "url": "https://pokeapi.co/api/v2/move/261/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

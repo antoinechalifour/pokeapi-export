@@ -1,0 +1,15 @@
+{
+  "id": 1405,
+  "item": {
+    "name": "hm05",
+    "url": "https://pokeapi.co/api/v2/item/401/"
+  },
+  "move": {
+    "name": "waterfall",
+    "url": "https://pokeapi.co/api/v2/move/127/"
+  },
+  "version_group": {
+    "name": "sun-moon",
+    "url": "https://pokeapi.co/api/v2/version-group/17/"
+  }
+}

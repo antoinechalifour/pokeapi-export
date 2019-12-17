@@ -1,0 +1,15 @@
+{
+  "id": 1095,
+  "item": {
+    "name": "tm72",
+    "url": "https://pokeapi.co/api/v2/item/376/"
+  },
+  "move": {
+    "name": "volt-switch",
+    "url": "https://pokeapi.co/api/v2/move/521/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

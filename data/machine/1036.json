@@ -1,0 +1,15 @@
+{
+  "id": 1036,
+  "item": {
+    "name": "tm66",
+    "url": "https://pokeapi.co/api/v2/item/370/"
+  },
+  "move": {
+    "name": "payback",
+    "url": "https://pokeapi.co/api/v2/move/371/"
+  },
+  "version_group": {
+    "name": "diamond-pearl",
+    "url": "https://pokeapi.co/api/v2/version-group/8/"
+  }
+}

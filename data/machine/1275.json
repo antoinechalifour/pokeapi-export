@@ -1,0 +1,15 @@
+{
+  "id": 1275,
+  "item": {
+    "name": "tm92",
+    "url": "https://pokeapi.co/api/v2/item/396/"
+  },
+  "move": {
+    "name": "trick-room",
+    "url": "https://pokeapi.co/api/v2/move/433/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

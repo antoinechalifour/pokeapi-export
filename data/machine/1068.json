@@ -1,0 +1,15 @@
+{
+  "id": 1068,
+  "item": {
+    "name": "tm69",
+    "url": "https://pokeapi.co/api/v2/item/373/"
+  },
+  "move": {
+    "name": "rock-polish",
+    "url": "https://pokeapi.co/api/v2/move/397/"
+  },
+  "version_group": {
+    "name": "x-y",
+    "url": "https://pokeapi.co/api/v2/version-group/15/"
+  }
+}

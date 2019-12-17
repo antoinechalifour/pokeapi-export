@@ -1,0 +1,15 @@
+{
+  "id": 128,
+  "item": {
+    "name": "tm08",
+    "url": "https://pokeapi.co/api/v2/item/312/"
+  },
+  "move": {
+    "name": "body-slam",
+    "url": "https://pokeapi.co/api/v2/move/34/"
+  },
+  "version_group": {
+    "name": "yellow",
+    "url": "https://pokeapi.co/api/v2/version-group/2/"
+  }
+}

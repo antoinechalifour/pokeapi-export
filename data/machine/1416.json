@@ -1,0 +1,15 @@
+{
+  "id": 1416,
+  "item": {
+    "name": "hm06",
+    "url": "https://pokeapi.co/api/v2/item/402/"
+  },
+  "move": {
+    "name": "rock-smash",
+    "url": "https://pokeapi.co/api/v2/move/249/"
+  },
+  "version_group": {
+    "name": "colosseum",
+    "url": "https://pokeapi.co/api/v2/version-group/12/"
+  }
+}
