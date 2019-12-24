@@ -21,8 +21,8 @@ module.exports.scrape = async function scrap({
       await writeJSON(outFile, data, { spaces: 2 });
       id += 1;
     } catch (err) {
-      console.error(err);
-      isDone = true;
+      id += 1
+      console.log(`No data for entity #${id}`)
     }
   } while (!isDone);
 };
